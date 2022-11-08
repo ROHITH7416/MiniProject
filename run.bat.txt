@@ -1,0 +1,6 @@
+cd E:\Eclipse\MiniProject
+mvn clean install
+
+
+
+https://github.com/ROHITH7416/MiniProject.git
